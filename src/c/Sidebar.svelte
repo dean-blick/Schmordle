@@ -30,7 +30,7 @@
         Ability to type any combination of characters - 100% <br><br>
         Create your own word with link - 100% <br><br>
         Sidebar with information - 100% <br><br>
-        Words of different lengths - 0% <br><br>
+        Words of different lengths - 100% <br><br>
         Statistics like average solve time, best solve time, worst solve time, number of guesses for each game - 0% <br><br>
         Cookies - 0%
         {:else if sidebarContent ===3}

@@ -3,7 +3,7 @@
 
     export let rowData = ['']
     export let keyPosition = -1
-    export let lineStatus = [0,0,0,0,0]
+    export let lineStatus = [0]
 </script>
 <div class="flex flex-row font-bold text-3xl">
     {#each rowData as tile,i}
